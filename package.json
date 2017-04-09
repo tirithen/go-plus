@@ -105,6 +105,10 @@
       }
     }
   },
+  "deserializers": {
+    "go-plus-information/InformationView": "deserializeInformationView",
+    "go-plus-godoc/GodocView": "deserializeGodocView"
+  },
   "configSchema": {
     "panelDisplayMode": {
       "title": "Panel Display Mode",
