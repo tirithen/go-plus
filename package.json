@@ -60,7 +60,7 @@
     "etch-octicon": "^1.0.0",
     "fs-extra": "^3.0.0",
     "lodash": "^4.17.4",
-    "semver": "^5.3.0",
+    "semver": "^5.4.0",
     "temp": "^0.8.3"
   },
   "devDependencies": {
