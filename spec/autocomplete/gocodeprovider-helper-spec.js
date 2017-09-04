@@ -4,7 +4,7 @@
 import {getPackage} from '../../lib/autocomplete/gocodeprovider-helper'
 import * as path from 'path'
 
-fdescribe('gocodeprovider-helper', () => {
+describe('gocodeprovider-helper', () => {
   describe('getPackage', () => {
     function normalize (v) {
       return (process.platform === 'win32' ? 'C:' : '') + path.normalize(v)
