@@ -58,7 +58,7 @@
     "ansi-style-parser": "^1.1.0",
     "etch": "0.12.4",
     "etch-octicon": "^1.0.0",
-    "fs-extra": "^3.0.0",
+    "fs-extra": "^4.0.2",
     "fuzzaldrin-plus": "^0.4.1",
     "lodash": "^4.17.4",
     "semver": "^5.3.0",
